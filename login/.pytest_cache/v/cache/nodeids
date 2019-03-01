@@ -1,0 +1,9 @@
+[
+  "test_login.py::TestLogin::()::test_valid_login",
+  "test_login.py::TestLogin::()::test_invalid_email",
+  "test_login.py::TestLogin::()::test_invalid_password",
+  "test_login.py::TestLogin::()::test_login_with_empty_creds",
+  "test_login.py::TestLogin::()::test_login_with_only_email",
+  "test_login.py::TestLogin::()::test_login_with_only_password",
+  "test_login.py::TestLogin::()::test_login_with_invalid_creds"
+]
